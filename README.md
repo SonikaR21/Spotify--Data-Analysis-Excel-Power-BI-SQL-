@@ -38,7 +38,7 @@ This project involve Data Cleaning and Transformation in Excel ,Extraction and v
     - SPIT IN MY… (20.27%)
     - Miss You (20.27%)
 
-# ** Data Fields**
+# **Data Fields**
 - Track_name
 - Artists_name
 - Artist_Count
@@ -49,7 +49,7 @@ This project involve Data Cleaning and Transformation in Excel ,Extraction and v
 -  bpm
 - Streams
 
-# **Conclusion **
+# **Conclusion**
 The Spotify Analysis dashboard effectively summarizes streaming performance and audio attributes of music tracks, highlighting key insights:
 
 - Popular artists: The Weeknd and Taylor Swift dominate streaming volumes.
