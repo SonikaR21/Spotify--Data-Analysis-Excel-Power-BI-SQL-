@@ -1,4 +1,4 @@
-# ** Spotify--Data-Analysis-Excel-Power-BI-SQL-**
+# **Spotify--Data-Analysis-Excel-Power-BI-SQL-**
 
 # **Introduction**
 This project involve Data Cleaning and Transformation in Excel ,Extraction and validation in SQL , Spotify Dashboard creation in Power BI to analyze and visualize music streaming data. It provides insights into the most streamed tracks, top-performing artists, yearly trends, and more. The dashboard is designed for stakeholders to make data-driven decisions about music performance and trends.
